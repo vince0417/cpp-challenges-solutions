@@ -1,6 +1,7 @@
 ## Descrição
 
 Desafio 02: Classificando/ordenando um Array
+
 Restrições:
 - Não usar vetores(vectors) STL.
 - Não usar uma função de classificação/ordenação de uma biblioteca.
